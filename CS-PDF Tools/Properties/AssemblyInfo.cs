@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("CS-PDF Tools")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Cardoner Sistemas")]
 [assembly: AssemblyProduct("CS-PDF Tools")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Copyright ©  2019 Cardoner Sistemas")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
