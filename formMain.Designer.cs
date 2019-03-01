@@ -127,6 +127,7 @@
             this.radiobuttonProcessTypeMergeFiles.TabIndex = 1;
             this.radiobuttonProcessTypeMergeFiles.Text = "Merge files alternating pages";
             this.radiobuttonProcessTypeMergeFiles.UseVisualStyleBackColor = true;
+            this.radiobuttonProcessTypeMergeFiles.CheckedChanged += new System.EventHandler(this.ProcessTypeChanged);
             // 
             // radiobuttonProcessTypePagesOrderInvert
             // 
