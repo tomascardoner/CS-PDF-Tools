@@ -57,7 +57,6 @@
     </Compile>
     <Compile Include="..\..\framework-csharp\ErrorMessageBox.cs">
       <Link>ErrorMessageBox.cs</Link>
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="..\..\framework-csharp\ErrorMessageBox.designer.cs">
       <Link>ErrorMessageBox.designer.cs</Link>
